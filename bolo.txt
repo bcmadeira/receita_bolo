@@ -1,0 +1,21 @@
+Salve
+aqui vendemos bolo de cenoura
+
+escolha entre os sabores: cenoura(10 graus);
+
+verificar estoque de ingredientes: cenoura, farinha, leite, ovo, fermento, caso não tenha recomece;
+
+caso tenha os ingredientes, comece a fazer o bolo
+
+Aqueça o forno até ficar entre 200 a 240 graus celsius após atingir 
+a temperatura correta coloque o bolo no forno;
+
+Quando o bolo atingir 40 minutos dentro do forno se estiver pronto retire o bolo do forno caso não espere mais 5m e fará a verificação novamente, se estiver pronto  retire, senão repita o processo
+
+com o bolo recém saído do forno , escolha a cobertura : chocolate
+verificar estoque de ingredientes: cacau em pó, manteiga, leite condensado, creme de leite
+caso não volte para a escolha da cobertura
+
+com o bolo pronto,
+pergunte ao cliente que forma de pagamento, ele fará uso, que são as seguintes: PIX, Dinheiro, Cartão de Credito ou debito
+
