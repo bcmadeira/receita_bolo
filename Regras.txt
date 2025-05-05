@@ -36,4 +36,3 @@ Algoritmo: Receita de Bolo
    6.1 Verificar a forma de pagamento: Crédito, Débito, Pix, Cheque, Carne, Boleto para 30 dias ou na entrega.
    6.2 Realizar o pagamento.
 
-============================================================================================================================================================================================
