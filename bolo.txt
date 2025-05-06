@@ -21,9 +21,11 @@ Adicionar sabores mais sabores
 Algoritmo: Receita de Bolo
 
 1. Iniciar Receita
+   Olá seja bem vindo!
 
 2. Atender o Cliente:
-   Perguntar qual bolo o cliente deseja.
+   Entregar o cardápio com 10 sabores de bolo, para o cliente. 
+     
 
 3. Verificar Ingredientes:
    Checar se todos os ingredientes necessários para o bolo escolhido estão disponíveis.
